@@ -1,0 +1,69 @@
+# עולם המים — Generative Engine Optimization Map
+
+> A water-themed attraction or entertainment venue, likely a water park, aquatic center, or similar recreational water destination. The brand revolves around water experiences and aquatic fun.
+
+---
+
+## Pages
+
+### דף הבית
+https://-2edc8df4.zappy5.app
+חוויה מימית סוחפת לכל המשפחה עם מגלשות אקסטרים, בריכות גל ובריכות מרגוע. בואו לבלות יום בילוי מושלם עם אינספור אטרקציות מים שישאירו אתכם רטובים ומחויכים. רכשו כרטיסים עוד היום!
+
+### תודה רבה - עולם המים
+https://-2edc8df4.zappy5.app/thank-you
+עולם המים - תודה רבה - עולם המים
+
+## Legal & Policy
+
+### Privacy Policy
+https://-2edc8df4.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-2edc8df4.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-2edc8df4.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-2edc8df4.zappy5.app
+- Endpoint: https://-2edc8df4.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About עולם המים
+A water-themed attraction or entertainment venue, likely a water park, aquatic center, or similar recreational water destination. The brand revolves around water experiences and aquatic fun.
+
+## Target Audience
+- משפחות עם ילדים קטנים
+- קבוצות נוער לפעילויות
+
+## Industry
+Entertainment & Recreation
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-2edc8df4.zappy5.app/sitemap.xml
+- Robots: https://-2edc8df4.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-2edc8df4.zappy5.app/llms-full.txt
